@@ -1,21 +1,20 @@
-Calculator
-This is a simple calculator project created as part of the DEVinHouse program to accelerate careers, with a workload of 900 hours. The project was created as a programming exercise to practice C# and Windows Forms.
+# Calculadora
 
-Getting Started
-To get started with the project, simply clone or download the repository and open the solution file in Visual Studio.
+This C# project made in Visual Studio is a simple calculator application created as part of a programming exercise. It was created as part of the DEVinHouse Accelerated career program with 900 hours of training. 
 
-Prerequisites
-To run the project, you'll need the following installed on your machine:
+## Getting Started
 
-Visual Studio
-.NET Framework
-Installing
-Clone or download the repository.
-Open the solution file in Visual Studio.
-Build and run the project.
-Usage
-The calculator has a simple interface with buttons for numbers, operators (+, -, *, /), and a clear button to reset the values. Simply click the buttons to input numbers and operators, and click the equal button to see the result.
+To use this calculator, you need to clone this repository to your local machine. You can do this by running the following command in your terminal:
 
-Authors
-(https://github.com/marcos-ev/)
+```git clone https://github.com/<YOUR-USERNAME>/calculadora.git```
+  
+  
+Once you have cloned the repository, you can open the project in Visual Studio and run it.
+
+## Usage
+
+This calculator supports the following operations: addition (+), subtraction (-), multiplication (*), division (/),. To use the calculator, simply click the appropriate button to enter the numbers and operators, and then click the "equals" button to perform the calculation. The result will be displayed in the "Result" textbox.
+
+
+
 
