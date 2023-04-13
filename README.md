@@ -27,5 +27,6 @@ This calculator supports the following operations:
 To use the calculator, simply click the appropriate button to enter the numbers and operators, and then click the "equals" button to perform the calculation. The result will be displayed in the "Result" textbox.
 
 
+![Calculator](https://github.com/marcos-ev/Calculator_Csharp/blob/2e8872994d7e9750d56db1fc983d76a1940d3dfd/calculadora-gif.gif)
 
 
